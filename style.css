@@ -1,0 +1,10 @@
+body{ 
+    text-align: center;
+    background-color: chocolate;
+    color: aqua;
+
+}
+label{
+    display: block;
+    padding: 1rem;
+}
